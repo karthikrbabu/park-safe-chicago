@@ -22,6 +22,8 @@ Data is extracted from the [Chicago Police Department's CLEAR](https://data.city
 #### Final Slide Deck:
 [https://docs.google.com/presentation/d/1cgpw0gfGpx5mOGu8J_wFnqnJAYnlOMAxpi4Xqynwptk/edit?usp=sharing](https://docs.google.com/presentation/d/1cgpw0gfGpx5mOGu8J_wFnqnJAYnlOMAxpi4Xqynwptk/edit?usp=sharing)
 
+#### UC Berkeley School of Information Portfolio:
+[https://www.ischool.berkeley.edu/projects/2021/park-safe-chicago](https://www.ischool.berkeley.edu/projects/2021/park-safe-chicago)
 
 
 ### Interactive Dashboards
